@@ -1,0 +1,152 @@
+{
+  "header": {
+    "navItems": {
+      "promo": "العروض الترويجية",
+      "aboutUs": "معلومات عنا",
+      "packages": "الباقات",
+      "tayyranBusiness": "طيران للأعمال",
+      "corporate": "الشركات"
+    },
+    "registerButton": "إنشاء حساب"
+  },
+  "HomePage": {
+    "heroSection": {
+      "mainHeading": "لنحجز رحلتك القادمة الآن!",
+      "subHeading": "اختر من بين أكثر من 1.5 مليون فندق و450+ شركة طيران",
+      "searchForm": {
+        "formTypeHotels": "فنادق",
+        "formTypeFlights": "رحلات",
+        "fromFieldLabel": "من",
+        "toFieldLabel": "إلى",
+        "DatePicker": "تاريخ المغادرة",
+        "returnDate": "تاريخ العودة",
+        "travelersLabel": "المسافرون",
+        "classLabel": "الدرجة",
+        "searchButton": "بحث",
+        "searchButtonLoading": "جارٍ البحث ...",
+        "loadingText": "جارٍ التحميل ...",
+        "hotelCountryLabel": "اختر الدولة",
+        "hotelCityLabel": "اختر المدينة",
+        "hotelCheckInDate": "تسجيل الوصول",
+        "hotelCheckOutDate": "تسجيل المغادرة"
+      }
+    },
+    "bestOffer": {
+      "bestOfferHeading": "أفضل عرض",
+      "bestOfferText": "يوفر الأعضاء 10٪ أو أكثر على أكثر من 100,000 فندق حول العالم عند تسجيل الدخول",
+      "bestOfferButton": "سجّل الدخول الآن"
+    },
+    "topHotels": {
+      "topHotelsHeading": "أفضل الفنادق",
+      "categories": {
+        "Trending": "الشائعة",
+        "5-Star": "خمس نجوم",
+        "Asian": "آسيوية",
+        "Europe": "أوروبية",
+        "Middle-East": "الشرق الأوسط",
+        "Budget-Friendly": "اقتصادية",
+        "Adventure": "مغامرات",
+        "Family-Friendly": "مناسبة للعائلات"
+      }
+    },
+    "topDeals": {
+      "topDealsHeading": "عروض اللحظة الأخيرة لعطلة نهاية الأسبوع",
+      "bookNowButton": "احجز الآن"
+    },
+    "weekendDeals": {
+      "heading": "عروض اللحظة الأخيرة لعطلة نهاية الأسبوع",
+      "dealsButton": "سعر الأعضاء متاح"
+    },
+    "topFlights": {
+      "heading": "رحلات جوية شهيرة بالقرب منك",
+      "categories": {
+        "International": "دولية",
+        "Domestic": "داخلية"
+      }
+    },
+    "mobileAppSection": {
+      "heading": "احصل على تطبيقنا!",
+      "exprensHeading": "اختبر الراحة بين يديك",
+      "subHeading": "استكشف قائمتنا المختارة لأفضل الدول لزيارتها في عام 2024 واكتشف وجهات مذهلة في انتظارك",
+      "downloadButton": "حمّل الآن"
+    }
+  },
+  "flightsearch": {
+    "noflight": "لم يتم العثور على رحلات"
+  },
+  "searchForm": {
+    "tripTypes": {
+      "roundtrip": "ذهاب وعودة",
+      "oneway": "ذهاب فقط",
+      "multiplecities": "مدن متعددة"
+    },
+    "flightClass": {
+      "economy": "اقتصادية",
+      "premiumEconomy": "اقتصادية مميزة",
+      "business": "رجال الأعمال",
+      "firstClass": "الدرجة الأولى"
+    },
+    "travlers": {
+      "buttonLabel": "الركاب",
+      "travlers": "المسافرون",
+      "adults": {
+        "label": "البالغون",
+        "note": "12 سنة فأكثر"
+      },
+      "children": {
+        "label": "الأطفال",
+        "note": "من 2 إلى 12 سنة"
+      },
+      "infants": {
+        "label": "الرضّع",
+        "note": "أقل من سنتين"
+      }
+    },
+    "from": "من",
+    "to": "إلى",
+    "returndate": "تاريخ العودة",
+    "searchButton": "بحث",
+    "loadingButton": "جارٍ البحث..."
+  },
+  "filters": {
+    "heading": "الرحلات",
+    "earliestarrival": "أقرب وصول",
+    "earliesttakeoff": "أقرب إقلاع",
+    "shortest": "أقصر الرحلات",
+    "cheapest": "أرخص الرحلات",
+    "departuretime": {
+      "departuretimeheading": "وقت المغادرة",
+      "before_morning": "قبل 06:00 صباحاً",
+      "morning": "06:00 صباحاً - 12:00 ظهراً",
+      "afternoon": "12:00 ظهراً - 06:00 مساءً",
+      "evening": "بعد 06:00 مساءً"
+    },
+    "price": "نطاق السعر",
+    "pricecurrency": "ر.س",
+    "stops": {
+      "stopsheading": "التوقفات",
+      "any": "أي عدد من التوقفات",
+      "direct": "رحلات مباشرة فقط",
+      "one": "توقف واحد",
+      "two_or_more": "توقفان أو أكثر"
+    },
+    "airlines": "شركات الطيران"
+  },
+  "footer": {
+    "contactUs": "اتصل بنا",
+    "socialMedia": "تابعنا على وسائل التواصل",
+    "legal": "قانوني",
+    "importantLinks": "موارد",
+    "aboutUs": "معلومات عنا",
+    "footerPargraph": "في النشر والتصميم الجرافيكي، لوريم إيبسوم هو نص وهمي يُستخدم عادةً لعرض الشكل البصري للمستند",
+    "rights": "جميع الحقوق محفوظة ©"
+  },
+  "errors": {
+    "fromError": "يرجى اختيار مدينة المغادرة",
+    "toError": "يرجى اختيار مدينة الوصول.",
+    "requiredFields": "يرجى ملء جميع الحقول المطلوبة للبحث عن فندق.",
+    "hotelErrorFetchingCountries": "حدث خطأ أثناء جلب الدول:",
+    "hotelErrorFetchingcities": "حدث خطأ أثناء جلب المدن:",
+    "hotelSearchAlert": "يرجى تحديد المدينة وتواريخ تسجيل الوصول والمغادرة."
+  }
+}
